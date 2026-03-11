@@ -1,6 +1,6 @@
 # 💫 About Me
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 🚀 **Full-Stack Developer | DevOps Enthusiast | Cloud Explorer**
 I'm a developer passionate about building **scalable web applications, reliable backend systems, and modern cloud infrastructure**. I enjoy working across the entire stack — from **designing APIs and backend logic** to **deploying production systems in the cloud**.
