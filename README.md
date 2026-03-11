@@ -1,7 +1,5 @@
 # 💫 About Me
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Infrastructure+Engineer;Backend+Systems+Builder"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Srajan%20Kotian&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Cloud%20Infrastructure&descAlignY=65"/>
 🚀 **Full-Stack Developer | DevOps Enthusiast | Cloud Explorer**
 I'm a developer passionate about building **scalable web applications, reliable backend systems, and modern cloud infrastructure**. I enjoy working across the entire stack — from **designing APIs and backend logic** to **deploying production systems in the cloud**.
 💡 I focus on building **production-ready applications** with strong attention to **performance, scalability, and automation**.
