@@ -1,4 +1,41 @@
-# 💫 About Me<br><p align="center"><br><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/><br></p><br>🚀 Full-Stack Developer | DevOps Enthusiast | Cloud Explorer<br><br>I'm a developer passionate about building scalable web applications, reliable backend systems, and modern cloud infrastructure. I enjoy working across the entire stack — from designing APIs and backend logic to deploying production systems in the cloud.<br><br>💡 I focus on building production-ready applications with strong attention to performance, scalability, and automation.<br><br>🧠 What I Work With<br><br>🔹 Backend Development – APIs, system architecture, and scalable services<br>🔹 Cloud & DevOps Engineering – deploying and managing cloud infrastructure<br>🔹 Infrastructure Automation – containers, CI/CD pipelines, and system workflows<br>🔹 System Performance Optimization – monitoring, tuning, and reliability improvements<br><br>🌱 Currently Exploring<br><br>⚡ Cloud-native architectures<br>⚡ DevOps automation & infrastructure as code<br>⚡ Scalable backend system design<br><br>✨ Always learning, building, and experimenting with new technologies.
+<h3>💫 About Me</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
+
+<p>
+🚀 Full-Stack Developer | DevOps Enthusiast | Cloud Explorer
+</p>
+
+<p>
+I'm a developer passionate about building scalable web applications, reliable backend systems, and modern cloud infrastructure. I enjoy working across the entire stack — from designing APIs and backend logic to deploying production systems in the cloud.
+</p>
+
+<p>
+💡 I focus on building production-ready applications with strong attention to performance, scalability, and automation.
+</p>
+
+<h4>🧠 What I Work With</h4>
+
+<p>
+🔹 Backend Development – APIs, system architecture, and scalable services<br>
+🔹 Cloud & DevOps Engineering – deploying and managing cloud infrastructure<br>
+🔹 Infrastructure Automation – containers, CI/CD pipelines, and system workflows<br>
+🔹 System Performance Optimization – monitoring, tuning, and reliability improvements
+</p>
+
+<h4>🌱 Currently Exploring</h4>
+
+<p>
+⚡ Cloud-native architectures<br>
+⚡ DevOps automation & infrastructure as code<br>
+⚡ Scalable backend system design
+</p>
+
+<p>
+✨ Always learning, building, and experimenting with new technologies.
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srajankotian37@gmail.com) 
