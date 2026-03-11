@@ -6,7 +6,7 @@
 
 <h3>
 🚀 Full-Stack Developer | DevOps Enthusiast | Cloud Explorer
-<h3>
+</h3>
 
 <p>
 I'm a developer passionate about building scalable web applications, reliable backend systems, and modern cloud infrastructure. I enjoy working across the entire stack — from designing APIs and backend logic to deploying production systems in the cloud.
